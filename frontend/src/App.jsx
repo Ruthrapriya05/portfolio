@@ -22,7 +22,7 @@ export default function App() {
       <AdminLogin onLogin={() => setAdmin(true)} />
     );
   }
-
+  
   // Normal portfolio site
   return (
     <>
